@@ -10,19 +10,17 @@ GIS Projects for teaching and learning about Computational Archaeology
 
 [QGIS](http://qgis.org)
 
-[GIMP](http:///gimp.org))
+[GIMP](http:///gimp.org)
 
 --
 
 ## Video Tutorials:
 
-2018 Tutorials with GRASS 7.4 and QGIS 2.18:
+These screen-cast video tutorials cover all the steps to complete the projects below. I include updated versions each year, as some of the details of the software tends to change, but the concepts and basic workflow should remain valid regardless of software version.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHoKPR1EvH82OGgUnGrwQiDw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+- [Play list of 2018 Tutorials with GRASS 7.4 and QGIS 2.18.](https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHoKPR1EvH82OGgUnGrwQiDw)
 
-2017 Tutorials with GRASS 7.2 and QGIS 2.15 (still valid and useful):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHqkSs9H19xhbW2MyxWC2F2h" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+- [Playlist of 2017 Tutorials with GRASS 7.2 and QGIS 2.15 (still valid and useful).](https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHqkSs9H19xhbW2MyxWC2F2h)
 
 --
 
