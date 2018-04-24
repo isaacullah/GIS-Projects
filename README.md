@@ -2,17 +2,17 @@
 
 GIS Projects for teaching and learning about Computational Archaeology
 
---
+---
 
 ## Software needed:
 
-[GRASS GIS](http://grass.osgeo.org)
+- [GRASS GIS](http://grass.osgeo.org)
 
-[QGIS](http://qgis.org)
+- [QGIS](http://qgis.org)
 
-[GIMP](http:///gimp.org)
+- [GIMP](http:///gimp.org)
 
---
+---
 
 ## Video Tutorials:
 
@@ -22,7 +22,7 @@ These screen-cast video tutorials cover all the steps to complete the projects b
 
 - [Playlist of 2017 Tutorials with GRASS 7.2 and QGIS 2.15 (still valid and useful).](https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHqkSs9H19xhbW2MyxWC2F2h)
 
---
+---
 
 ## Projects
 
@@ -44,7 +44,7 @@ Skills covered:
         3) Querying raster data with vector points
         4) Building on previous vector analysis and querying skills
 
-- Project 3: This project uses the same data as for Project 2, above. Instructions for the project are included, and the main aim is predicrtive modeling, including visibility analysis.
+- Project 3: This project uses the same data as for Project 2, above. Instructions for the project are included, and the main aim is predictive modeling, including visibility analysis. You should watch the videos about predictive modeling and viewshed analysis in both the 2017 and 2018 playlists, as they both cover aspects of this project.
 
 Skills covered:
 
@@ -52,14 +52,14 @@ Skills covered:
         2) Statistical analysis
         3) Use of the map calculator
 
-- Project 4: This project includes a folder of drone images from Southern Italy for qualtiative imagery analysis in GIMP and a zipped GRASS location containing a LandSat 7 tile for multiband imagery analysis in GRASS GIS. 
+- Project 4: This project includes a folder of nadir aerial UAV images of historic harm houses from Southern Italy for qualitative imagery analysis in GIMP and a zipped GRASS location containing a portion of a 2017 LandSat 7 tile of the same region for multi-band imagery analysis in GRASS GIS. Note that the tutorials for the qualitative portions of this project are only in the 2017 playlist, as nothing much has changed in the GIMP workflow (despite their being a more recent version of GIMP). The GRASS portions of this project are covered in both the 2017 and 2018 playlist.
 
 Skills covered:
 
         1) Qualitative and Quantitative Pattern Analysis
-        2) Greyscale and Multi-Band Image Analysis
+        2) False-color and Multi-Band Image Analysis
         3) Image Classification
 
---
+---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
