@@ -18,6 +18,8 @@ GIS Projects for teaching and learning about Computational Archaeology
 
 These screen-cast video tutorials cover all the steps to complete the projects below. I include updated versions each year, as some of the details of the software tends to change, but the concepts and basic workflow should remain valid regardless of software version.
 
+- [Play list of 2022 Tutorials with GRASS 8.0 and QGIS 3.22.](https://www.youtube.com/playlist?list=PLSCH2IXZ2pHpdYRuq0m0TlDvB0C-v0kW5)
+
 - [Play list of 2018 Tutorials with GRASS 7.4 and QGIS 2.18.](https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHoKPR1EvH82OGgUnGrwQiDw)
 
 - [Playlist of 2017 Tutorials with GRASS 7.2 and QGIS 2.15 (still valid and useful).](https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHqkSs9H19xhbW2MyxWC2F2h)
